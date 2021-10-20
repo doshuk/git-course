@@ -20,4 +20,4 @@ const app = Vue.createApp({
 
 app.mount('#user-goal');
 
-console.log('Test 2');
+console.log('Test 2)))))))))))))))))))))))))');
